@@ -1,11 +1,11 @@
 # How_long_does_a_scandal_last_on_social_media
-Data
+<h3>Data</h3>
 
 Whistle-blower Frances Haugen who was a former Data Scientist at Facebook said that Facebook harms children, sows' division and undermines democracy in pursuit of breakneck growth and "astronomical profits.“ on 3rd Oct
 
 Facebook/WhatsApp/Instagram Outage on 4th Oct
 
-Approach
+<h3>Approach</h3>
 
 Sentiment Analysis to see the sentiments of tweets and how these sentiments changed over time
 
